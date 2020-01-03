@@ -1,8 +1,13 @@
-# 説明
+## 説明
 
 Qiita のストックに読んだ/読んでないフラグを追加します。ストックのページ([https://qiita.com/stock](https://qiita.com/stock))にボタンが追加されます。クリックすると読んだ/読んでないが切り替わり、読んだかどうかを記録しておくことができるようになります。
 
 また、ストックした記事のページにも同様のボタンが表示されるようになります。
+
+## インストール方法
+
+1. お使いのブラウザに対応した[Tampermonkey](http://www.tampermonkey.net/)をインストールします
+2. スクリプトの URL([https://github.com/chromia/qiita-stock-readflag/raw/master/qiita-stock-readflag.user.js](https://github.com/chromia/qiita-stock-readflag/raw/master/qiita-stock-readflag.user.js)にアクセスし、Tampermonkey 用のユーザースクリプトをインストールします。
 
 ## 仕様
 
