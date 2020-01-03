@@ -7,7 +7,7 @@ Qiita のストックに読んだ/読んでないフラグを追加します。�
 ## インストール方法
 
 1. お使いのブラウザに対応した[Tampermonkey](http://www.tampermonkey.net/)をインストールします
-2. スクリプトの URL([https://github.com/chromia/qiita-stock-readflag/raw/master/qiita-stock-readflag.user.js](https://github.com/chromia/qiita-stock-readflag/raw/master/qiita-stock-readflag.user.js)にアクセスし、Tampermonkey 用のユーザースクリプトをインストールします。
+2. スクリプトの URL([https://github.com/chromia/qiita-stock-readflag/raw/master/qiita-stock-readflag.user.js](https://github.com/chromia/qiita-stock-readflag/raw/master/qiita-stock-readflag.user.js))にアクセスし、Tampermonkey 用のユーザースクリプトをインストールします。
 
 ## 仕様
 
